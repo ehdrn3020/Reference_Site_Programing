@@ -1,2 +1,0 @@
-﻿#ELEMENT LINUX SHELL SCRIPT
-http://egaoneko.github.io/os/2015/05/24/linux-starter-guide-8.html
